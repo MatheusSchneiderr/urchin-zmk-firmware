@@ -62,7 +62,7 @@
             bindings = <
 &trans        &trans        &kp E         &trans        &trans            &trans        &kp U         &kp I         &kp O         &kp LBKT
 &kp A         &trans        &trans        &trans        &trans            &trans        &trans        &trans        &trans        &kp SQT
-&bootloader   &trans        &trans        &trans        &trans            &trans        &trans        &trans        &trans        &bootloader
+&trans        &trans        &bootloader   &trans        &trans            &trans        &trans        &bootloader   &trans        &trans
                             &kp LSHFT     &trans            &trans        &trans
             >;
         };
