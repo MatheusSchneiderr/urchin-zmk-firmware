@@ -43,7 +43,7 @@
 &kp INT1      &kp LS(INT1)  &kp SQT       &kp LS(N8)    &kp LS(N2)        &kp LS(N7)    &kp LS(EQUAL) &kp LS(N9)    &kp LS(N0)    &kp LBKT
 &kp GRAVE     &kp LS(COMMA) &kp LS(GRAVE) &kp LS(DOT)   &kp LS(NUBS)      &kp LS(N4)    &kp MINUS     &kp LS(RBKT)  &kp LS(BSLH)  &kp EQUAL
 &kp NUBS      &kp LCTRL     &trans        &kp LS(N1)    &kp LS(N3)        &kp LS(N5)    &kp RBKT      &kp NUHS      &kp LS(FSLH)  &kp LS(MINUS)
-                            &kp ESC       &trans            &kp LC(LCTRL) &trans
+                            &trans        &kp ESC           &kp LC(LCTRL) &trans
             >;
         };
 
