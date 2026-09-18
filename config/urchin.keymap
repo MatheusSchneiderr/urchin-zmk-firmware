@@ -77,7 +77,7 @@
             display-name = "Accent";
             bindings = <
 &trans        &trans        &kp E         &trans        &trans            &trans        &kp U         &kp I         &kp O         &kp LBKT
-&kp A         &studio_unlock &trans        &trans        &trans            &trans        &trans        &trans        &kp GRAVE     &kp SQT
+&kp A         &studio_unlock &trans        &trans        &trans            &trans        &trans        &trans        &kp LS(LBKT)  &kp SQT
 &trans        &trans        &bootloader   &trans        &kp CAPS          &trans        &trans        &bootloader   &kp LS(SQT)   &trans
                             &kp LSHFT     &trans            &trans        &trans
             >;
