@@ -39,7 +39,7 @@
 &trans        &trans        &trans        &trans        &trans            &trans        &trans        &trans        &trans        &trans
 &kp LSHFT     &kp LALT      &kp LCTRL     &kp LGUI      &trans            &kp LEFT      &kp DOWN      &kp UP        &kp RIGHT     &kp RSHFT
 &trans        &trans        &trans        &trans        &trans            &kp HOME      &trans        &trans        &trans        &kp END
-                            &trans        &trans            &trans        &trans
+                            &trans        &trans            &kp DEL       &trans
             >;
         };
 
